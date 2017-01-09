@@ -1,4 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "baremore"
+  "format": "baremore",
+  "resources": { 
+    "baremore/ANGELSHARK_DIET_DATAREQUEST_10012012.csv": "ANGELSHARK_DIET_DATAREQUEST_10012012.csv"
+  }
 }
