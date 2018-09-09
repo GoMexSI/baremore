@@ -1,6 +1,8 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "baremore",
+  "citation": "Baremore, I., Murie, D., & Carlson, J. (2010). Seasonal and size-related differences in diet of the Atlantic angel shark Squatina dumeril in the northeastern Gulf of Mexico. Aquatic Biology, 8, 125–136. doi:10.3354/ab00214",
+  "doi": "10.3354/ab00214",
   "resources": { 
     "baremore/ANGELSHARK_DIET_DATAREQUEST_10012012.csv": "ANGELSHARK_DIET_DATAREQUEST_10012012.csv"
   }
